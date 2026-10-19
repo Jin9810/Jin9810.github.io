@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f2e7"/>
+  <path d="M96 106h1008" stroke="#d9cdbb" stroke-width="2"/>
+  <path d="M96 524h1008" stroke="#d9cdbb" stroke-width="2"/>
+  <rect x="96" y="160" width="8" height="210" rx="4" fill="#d99a3e"/>
+  <text x="148" y="287" fill="#18334d" font-family="Georgia, 'Times New Roman', serif" font-size="104" font-style="italic" font-weight="700">Jin's Notes</text>
+  <text x="154" y="363" fill="#5c6570" font-family="system-ui, sans-serif" font-size="34" letter-spacing="4">记录技术、思考与持续优化</text>
+  <text x="1000" y="480" fill="#18334d" font-family="Georgia, serif" font-size="72" font-weight="700">J.</text>
+</svg>
